@@ -1,0 +1,6 @@
+Django==1.6.5
+MySQL-Connector-Python==1.1.7
+South==0.8.4
+matplotlib==1.2.0
+numpy==1.6.1
+virtualenv==1.11.6
